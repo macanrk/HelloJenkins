@@ -6,8 +6,8 @@ public class jenkins {
 		// TODO Auto-generated method stub
 
 		System.out.println("Welcome to my world");
-		System.out.println("Welcome");
-		//added extra message
+		//System.out.println("Welcome");
+		//commented extra message
 
 	}
 
